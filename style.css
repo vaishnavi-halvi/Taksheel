@@ -1,0 +1,19 @@
+h1{
+    color:brown;
+   text-align: center; 
+   background-color: rgb(216, 205, 143);
+
+}
+p{
+    color:darkmagenta
+}
+h2{
+    color:darkslategrey
+}
+img{
+    margin-left: 40%;
+}
+*{
+    border:double;
+  
+}
